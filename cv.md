@@ -4,7 +4,7 @@
  
 ### 2. You can contact me
 * mail: anisko.andrei@gmail.com
-* Telegram: https://t.me/oksinaa
+* Telegram: [@oksinaa](https://t.me/oksinaa)
 * phone №: +375-29-515-84-94 (A1)
 
 ### 3. Hello world!
@@ -23,7 +23,7 @@ Now I work as a system administrator and want to become a cool developer.
 * Experience in administering users in the domain;
 * Experience with the monitoring system Zabbix.
 
-## 5. Code examples:
+### 5. Code examples:
 You can find them [here](https://github.com/anisko-andrei?tab=repositories) in the future.
 
 ### 6. Experience:
