@@ -1,16 +1,36 @@
-What should a Junior Developer Resume contain?
+## CV BEGINNER ANDROID DEVELOPER
 
-! Important: write your Resume in English if you can, if possible
+### 1. My name is Aniskovich Andrei
+ 
+### 2. You can contact me
+* mail: anisko.andrei@gmail.com
+* Telegram: https://t.me/oksinaa
+* phone №: +375-29-515-84-94 (A1)
 
-1. First Name, Last Name (real ones)
-2. Contact Info (add several ways to contact you)
-3. Summary (your goal, wishes, reveal what is important for you, what do you want and why.
-Some kind of self-presentation. In case of lack of experience  Junior Developer sells his/her potential, his/her passion and ability to learn fast. You shouldn't think that everybody is going to teach you when you come to the workplace . Rather being a Junior means always
-learning new things from everywhere etc.).
-4. Skills (e.g. programming languages, frameworks, methodologies, version control, tools etc.)
-5. Code examples (LATEST)
-6. Experience (for a Junior Dev it means all kinds of experience: coding tests, projects from courses,
-freelance projects - wherever they had the opportunity to demonstrate skills they have.
-Also it would be awesome if you add links to source code)
-7. Education (including courses, seminars, lectures, online learning)
-8. English (elaborate on what kind of practice you had, if any, how long it lasted and so on)
+### 3. Hello world!
+I'm Beginner Android Developer.
+I'm want to improve my skills and abilities by solving various problems.
+I am attentive, conscientious, stress-resistant and always open to new knowledge.
+I always try to find a solution, even if it doesn't work out.
+Now I work as a system administrator and want to become a cool developer.
+
+### 4. Skills:
+* Administration of 30 servers (Windows Server 2008R2 / 2012R2 / 2019);
+* Administration of more than 100 PCs and 20 laptops (Windows 7, 10);
+* Experience with software and hardware Grass Valley and Octopus Newsroom;
+* Experience in disassembling and assembling servers, PCs, laptops;
+* Ability to read and understand technical documentation;
+* Experience in administering users in the domain;
+* Experience with the monitoring system Zabbix.
+
+## 5. Code examples:
+You can find them [here](https://github.com/anisko-andrei?tab=repositories) in the future.
+
+### 6. Experience:
+You can find them [here](https://github.com/anisko-andrei?tab=repositories) in the future.
+
+
+### 7. Education:
+BSUIR Faculty of Computer Systems and Networks
+
+### 8. My English level - B1
