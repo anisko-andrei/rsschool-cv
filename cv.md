@@ -2,10 +2,10 @@
 
 ### 1. My name is Aniskovich Andrei
  
-### 2. You can contact me
-* mail: anisko.andrei@gmail.com
-* Telegram: [@oksinaa](https://t.me/oksinaa)
-* phone №: +375-29-515-84-94 (A1)
+### 2. You can contact me:
+* mail: anisko.andrei@gmail.com;
+* Telegram: [@oksinaa](https://t.me/oksinaa);
+* phone №: +375-29-515-84-94 (A1).
 
 ### 3. Hello world!
 I'm Beginner Android Developer.
